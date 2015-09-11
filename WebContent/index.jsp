@@ -8,7 +8,7 @@
 </head>
 <body>
 
-<a href="uplaod.jsp">Upload File</a>
+<a href="app/uplaod.jsp">Upload File</a>
 <br><br>
 <a href="download.jsp">Down File</a>
 
